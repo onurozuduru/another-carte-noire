@@ -37,10 +37,6 @@ class Awesome < ActiveRecord::Base
 end
 {% endhighlight %}
 
-<div class="github-code">
-{% include code_snippets/test.html %}
-</div>
-
 ```html
 <!DOCTYPE html>
 <title>Title</title>
